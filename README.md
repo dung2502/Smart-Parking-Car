@@ -1,6 +1,6 @@
 # Smart-Parking-Car
 
-BaiDoXeThongMinh là một ứng dụng web quản lý dữ liệu xe vào-ra bãi đỗ một cách tự động. Dự án này được xây dựng bằng React.js cho phía client và Django (Python) cho phía server. Ứng dụng được tích hợp Ai nhận diện biển số xe nhằm tăng thêm tính bảo mật và giảm bớt gánh nặng trong việc quản lý.
+BaiDoXeThongMinh là một ứng dụng web quản lý dữ liệu xe vào-ra bãi đỗ một cách tự động. Dự án này được xây dựng bằng React.js cho phía client và Django (Python) cho phía server và được tích hợp Ai nhận diện biển số xe nhằm tăng thêm tính bảo mật và giảm bớt gánh nặng trong việc quản lý.
 
 *Phía Server:
 ## Cài đặt và Chạy
