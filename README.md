@@ -27,11 +27,11 @@ React.js
 Server
 Django
 
-*Phía AI: Sử dụng model Ai YOLOv8 để trainning nhận diện diện vật thể và ký tự.
+## Phía AI : Sử dụng model Ai YOLOv8 để trainning nhận diện diện vật thể và ký tự.
 1. File character.ipynb dùng để trainning Các ký tự.
 2. File PlateNumber.ipynb dùng để trainning nhận diện biển số.
 
-*Phía phần cứng:
+## Phần cứng :
 1. Sử dụng phần cứng là arduino để vận hành hệ thống có kết hợp rfid để quyệt thẻ khi ra vào có kết hợp 
 
 ## Thành viên dự án:
