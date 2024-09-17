@@ -86,6 +86,8 @@ ai/        # Các file mô hình AI và notebook dùng để training nhận di�
 ### Phần cứng:
 - Arduino
 - Cảm biến RFID
+- Cảm biến Hồng ngoại
+- Camera ESP86
 
 ## Thành viên dự án
 
